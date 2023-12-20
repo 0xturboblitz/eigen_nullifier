@@ -1,0 +1,7 @@
+{
+  "name": "Private_randomness",
+  "website": "https://github.com/0xturboblitz/eigen_nullifier",
+  "description": "MPC setup providing a private randomness source to construct nullifiers for projects like proof of passport and anon-aadhaar",
+  "logo": "https://github.com/0xturboblitz/eigen_nullifier/blob/main/logo.png",
+  "twitter": "https://twitter.com/turboblitzzz"
+}
